@@ -1,5 +1,4 @@
 # BTCdir.org 💊
-![]
 
 <img src = "https://github.com/BXL909/BTCdir.org/blob/main/BTCdirScreenshot.jpg?raw=true">
 
